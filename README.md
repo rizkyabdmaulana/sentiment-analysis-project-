@@ -10,25 +10,6 @@ This project demonstrates a complete machine learning workflow for text sentimen
 - Model evaluation with accuracy metrics, ROC curve, and confusion matrix
 - Feature importance analysis
 
-## Project Structure
-```
-sentiment-analysis-project/
-├── README.md
-├── data/
-│   ├── raw_data.csv
-│   └── processed_data.csv
-├── notebooks/
-│   └── sentiment_analysis.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── model_evaluation.py
-├── models/
-│   └── sentiment_classifier.pkl
-├── requirements.txt
-└── presentation/
-    └── sentiment_analysis_presentation.pptx
 ```
 
 ## Requirements
